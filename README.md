@@ -15,6 +15,7 @@ The user can specify the following,
  
 This script only has one dependency (provided python is installed)
 `pip install tk`
+All contents within tools directory requires unzipping
 
 Further downloads are needed for ffmpeg (video cutting) and ffprobe (obtaining video duration)
 these are available from https://ffmpeg.org/download.html
