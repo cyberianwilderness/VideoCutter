@@ -1,2 +1,2 @@
 # VideoCutter
-Video Cutter and Compressing GUIT tool/CLI
+Video Cutter and Compressing GUI tool/CLI
